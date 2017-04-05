@@ -1,0 +1,10 @@
+{
+	"user": {
+		"token": "YourBotToken",
+		"ownerid": "YourUserID"
+	},
+	"commands": {
+		"prefix": "!",
+		"allowbot": false
+	}
+}
